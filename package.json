@@ -1,0 +1,31 @@
+{
+  "name": "@rootstream/once",
+  "version": "1.0.0",
+  "description": "async friendly version of https://www.npmjs.com/package/once",
+  "main": "once.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootstream/once.git"
+  },
+  "author": "Sepehr Laal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rootstream/once/issues"
+  },
+  "homepage": "https://github.com/rootstream/once#readme",
+  "devDependencies": {
+    "bluebird": "^3.5.5",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^6.2.1",
+    "nyc": "^14.1.1",
+    "sinon": "^7.5.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "wrappy": "^1.0.2"
+  }
+}
