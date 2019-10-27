@@ -1,6 +1,6 @@
 {
   "name": "@rootstream/once",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "async friendly version of https://www.npmjs.com/package/once",
   "main": "once.js",
   "scripts": {
